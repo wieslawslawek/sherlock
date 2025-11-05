@@ -1,9 +1,9 @@
 APClips
 Coders Rank
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -11,5 +11,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
-phpRU
+opennet
 svidbook
