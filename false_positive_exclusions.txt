@@ -2,9 +2,10 @@ APClips
 Archive.org
 Coders Rank
 DeviantArt
+Dribbble
+Freelancer
 GNOME VCS
 Giphy
-Gravatar
 LushStories
 Minecraft
 PocketStars
@@ -14,7 +15,7 @@ Splice
 Spotify
 Trovo
 Weblate
-Wordnik
 YandexMusic
+opennet
 phpRU
 svidbook
