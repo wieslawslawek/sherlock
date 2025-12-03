@@ -1,9 +1,12 @@
 APClips
+Archive of Our Own
 Archive.org
 Coders Rank
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Hubski
 LushStories
 Minecraft
 PocketStars
@@ -11,6 +14,7 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
