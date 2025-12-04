@@ -1,7 +1,6 @@
 APClips
-Archive of Our Own
 Archive.org
-Coders Rank
+Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -15,8 +14,8 @@ RocketTube
 Splice
 Spotify
 Trovo
+TryHackMe
 Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
