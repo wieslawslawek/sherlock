@@ -1,9 +1,13 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Coders Rank
+DeviantArt
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
 PocketStars
@@ -11,6 +15,8 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
