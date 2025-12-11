@@ -6,14 +6,15 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
+LushStories
 Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
