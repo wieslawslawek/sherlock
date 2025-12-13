@@ -1,20 +1,22 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
-Trovo
+Vero
 Weblate
 YandexMusic
+opennet
 svidbook
-xHamster
