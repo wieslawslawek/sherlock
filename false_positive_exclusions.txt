@@ -1,15 +1,16 @@
 APClips
-Academia.edu
 Archive.org
+Carbonmade
 Code Snippet Wiki
-Coders Rank
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -19,6 +20,4 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
-xHamster
