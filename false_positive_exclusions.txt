@@ -6,6 +6,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -15,9 +16,11 @@ Scribd
 SlideShare
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 opennet
 phpRU
 svidbook
 threads
+xHamster
