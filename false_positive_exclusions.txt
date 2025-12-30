@@ -1,16 +1,20 @@
 APClips
+Archive.org
+Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
 PocketStars
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
@@ -20,4 +24,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
