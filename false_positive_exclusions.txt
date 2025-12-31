@@ -1,26 +1,27 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
+GitHub
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
