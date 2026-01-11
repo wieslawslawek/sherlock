@@ -2,7 +2,6 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
-Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -20,8 +19,10 @@ Splice
 Spotify
 Trovo
 Weblate
+WordPress
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
