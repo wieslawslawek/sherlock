@@ -19,10 +19,8 @@ Splice
 Spotify
 Trovo
 Weblate
-WordPress
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
