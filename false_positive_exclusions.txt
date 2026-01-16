@@ -6,7 +6,6 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
 LushStories
 PocketStars
