@@ -2,13 +2,14 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
-Dribbble
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -25,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
