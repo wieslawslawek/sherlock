@@ -1,7 +1,7 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
+DEV Community
 DeviantArt
 Fandom
 GNOME VCS
@@ -9,7 +9,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -21,9 +20,7 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
