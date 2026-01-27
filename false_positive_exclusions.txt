@@ -2,14 +2,12 @@ APClips
 Archive.org
 Code Snippet Wiki
 Fandom
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -19,6 +17,7 @@ Smule
 Splice
 Spotify
 Weblate
+YandexMusic
 mercadolivre
 opennet
 phpRU
