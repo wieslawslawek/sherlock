@@ -6,6 +6,7 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
 PocketStars
@@ -20,10 +21,8 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
+eintracht
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
