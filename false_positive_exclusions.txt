@@ -5,11 +5,10 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LessWrong
-LushStories
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -23,6 +22,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
