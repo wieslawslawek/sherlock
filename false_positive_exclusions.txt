@@ -1,11 +1,11 @@
 APClips
 Archive.org
-GNOME VCS
+Code Snippet Wiki
 GeeksforGeeks
 Giphy
+Hashnode
 Hubski
 LessWrong
-LushStories
 PocketStars
 Realmeye
 Reddit
@@ -19,5 +19,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
