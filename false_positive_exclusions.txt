@@ -1,6 +1,7 @@
 APClips
+Archive of Our Own
 Archive.org
-Audiojungle
+CGTrader
 Codolio
 DeviantArt
 GNOME VCS
@@ -10,6 +11,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Realmeye
@@ -20,11 +22,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
