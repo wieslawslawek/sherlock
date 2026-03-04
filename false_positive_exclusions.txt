@@ -1,9 +1,6 @@
 APClips
-Archive of Our Own
 Archive.org
-CGTrader
 Codolio
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
