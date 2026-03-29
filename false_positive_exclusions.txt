@@ -1,12 +1,15 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
+DigitalSpy
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
+LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -21,7 +24,6 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
-igromania
 mercadolivre
 opennet
 phpRU
