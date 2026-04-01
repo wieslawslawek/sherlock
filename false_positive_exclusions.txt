@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+CGTrader
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -9,9 +10,9 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -22,6 +23,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -29,4 +31,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
