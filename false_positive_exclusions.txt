@@ -19,9 +19,9 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Weblate
