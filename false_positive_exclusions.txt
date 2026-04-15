@@ -15,7 +15,6 @@ LushStories
 Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -23,13 +22,14 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
