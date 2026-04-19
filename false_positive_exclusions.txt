@@ -3,7 +3,8 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+BoardGameGeek
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -19,15 +20,14 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
