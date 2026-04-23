@@ -2,19 +2,15 @@
 APClips
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -33,4 +29,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
