@@ -1,5 +1,6 @@
 7Cups
 APClips
+Airliners
 Apple Discussions
 Archive.org
 Bandcamp
@@ -10,6 +11,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Linktree
 LushStories
 Minecraft
 Patched
@@ -23,12 +25,12 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
