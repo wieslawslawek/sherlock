@@ -15,11 +15,11 @@ LessWrong
 LushStories
 Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -27,7 +27,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
@@ -36,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
