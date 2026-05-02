@@ -4,8 +4,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BoardGameGeek
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -13,10 +14,7 @@ Giphy
 Hashnode
 Hubski
 LushStories
-Minecraft
-Outgress
 Patched
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -27,7 +25,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -35,7 +32,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
