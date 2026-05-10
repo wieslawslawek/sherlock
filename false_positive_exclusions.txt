@@ -5,10 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
 Codolio
 Cults3D
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,7 +15,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Motherless
 Patched
 Pornhub
@@ -25,14 +22,12 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
