@@ -1,10 +1,9 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -22,7 +21,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -33,7 +31,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 dailykos
 igromania
