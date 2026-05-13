@@ -2,6 +2,7 @@
 APClips
 Airliners
 Apple Discussions
+Archive.org
 ArtStation
 Bandcamp
 Codolio
@@ -10,13 +11,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
