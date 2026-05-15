@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -12,6 +13,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
+LessWrong
 LushStories
 Motherless
 Patched
@@ -30,6 +33,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
