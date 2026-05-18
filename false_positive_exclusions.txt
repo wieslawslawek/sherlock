@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -14,6 +13,7 @@ Giphy
 Hashnode
 Hubski
 LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
