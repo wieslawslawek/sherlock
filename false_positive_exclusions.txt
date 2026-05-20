@@ -6,13 +6,14 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cracked Forum
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
 Pornhub
@@ -26,6 +27,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
