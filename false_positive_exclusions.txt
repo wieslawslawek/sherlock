@@ -4,18 +4,17 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
-Audiojungle
 Bandcamp
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
+LessWrong
 LushStories
 Patched
 Pornhub
@@ -29,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
