@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
 Codolio
 Discord.bio
 Envato Forum
@@ -16,7 +15,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
 Patched
 Pornhub
@@ -24,13 +22,12 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
