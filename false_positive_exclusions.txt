@@ -6,11 +6,11 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
-Discord.bio
+DeviantArt
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -24,16 +24,17 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
