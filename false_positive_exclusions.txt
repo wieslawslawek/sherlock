@@ -7,6 +7,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,6 +18,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
 Pornhub
@@ -43,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
