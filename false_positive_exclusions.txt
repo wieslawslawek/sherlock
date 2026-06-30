@@ -1,13 +1,12 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,22 +17,28 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
+OurDJTalk
+PCGamer
 Patched
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
