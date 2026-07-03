@@ -6,7 +6,10 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
+CGTrader
 Codolio
+Cracked Forum
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -29,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -39,6 +43,7 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
