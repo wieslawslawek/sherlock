@@ -6,10 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
-CGTrader
 Codolio
-Cracked Forum
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -27,23 +24,21 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
