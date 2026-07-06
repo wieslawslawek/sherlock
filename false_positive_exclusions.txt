@@ -17,7 +17,6 @@ Houzz
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -35,6 +34,7 @@ Spotify
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
