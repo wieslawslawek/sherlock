@@ -10,6 +10,7 @@ BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -22,7 +23,6 @@ Odysee
 PCGamer
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -46,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
