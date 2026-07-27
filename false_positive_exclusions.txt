@@ -5,21 +5,23 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
+GitBook
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,9 +32,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
