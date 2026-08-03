@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -20,23 +21,26 @@ Instapaper
 LessWrong
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Rajce.net
+Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
