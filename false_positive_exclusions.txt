@@ -7,6 +7,7 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -19,7 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+LushStories
 Odysee
 PCGamer
 Patched
@@ -32,11 +33,9 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
@@ -50,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
