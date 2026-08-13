@@ -7,9 +7,9 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-CGTrader
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -22,9 +22,11 @@ Hubski
 Instapaper
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
+Pychess
 Rarible
 Realmeye
 Reddit
@@ -38,6 +40,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,3 +52,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
