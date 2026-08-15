@@ -5,23 +5,19 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-BoardGameGeek
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
-Fosstodon
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LushStories
 Odysee
 PCGamer
@@ -37,7 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 Trovo
 TryHackMe
 Velomania
