@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -15,12 +16,14 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
 LushStories
 Odysee
+Outgress
 PCGamer
 Patched
 Pornhub
@@ -49,3 +52,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
