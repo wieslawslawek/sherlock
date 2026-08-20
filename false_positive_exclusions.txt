@@ -14,6 +14,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
@@ -21,7 +22,6 @@ Instapaper
 LushStories
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -33,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
