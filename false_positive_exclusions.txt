@@ -8,23 +8,21 @@ Bandcamp
 Chatujme.cz
 Codolio
 Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
 LushStories
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,7 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 Trovo
 TryHackMe
 Velomania
