@@ -8,12 +8,13 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -40,6 +41,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wikidot
 YandexMusic
 authorSTREAM
 dailykos
