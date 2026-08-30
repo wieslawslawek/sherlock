@@ -14,14 +14,15 @@ DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
-Flipboard
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
-LushStories
+LiveJournal
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -41,7 +42,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wikidot
 YandexMusic
 authorSTREAM
 dailykos
