@@ -5,9 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
-Chess
 Codolio
 Cracked Forum
 DeviantArt
@@ -20,6 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LushStories
 Odysee
 PCGamer
@@ -47,7 +48,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
