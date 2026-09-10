@@ -7,8 +7,8 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,9 +18,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,7 +33,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
