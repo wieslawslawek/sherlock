@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,6 +21,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Lobsters
 LushStories
 ObservableHQ
 Odysee
@@ -53,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
