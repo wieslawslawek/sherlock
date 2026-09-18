@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -18,9 +17,12 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Houzz
 Hubski
 Instapaper
+Itch.io
+LushStories
 ObservableHQ
 Odysee
 PCGamer
