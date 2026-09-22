@@ -7,19 +7,23 @@ ArtStation
 Bandcamp
 CGTrader
 Championat
+Chatujme.cz
 ChaturBate
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
 LushStories
+Mamot
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,6 +38,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
