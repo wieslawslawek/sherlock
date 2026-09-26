@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -12,6 +11,7 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -23,9 +23,9 @@ Hubski
 Instapaper
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -41,6 +41,8 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Valorant Forums
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -54,4 +56,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
