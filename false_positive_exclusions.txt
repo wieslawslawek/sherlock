@@ -6,10 +6,10 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
+BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 Cracked Forum
 DeviantArt
@@ -21,13 +21,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 LushStories
 ObservableHQ
 Odysee
 OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,10 +38,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
