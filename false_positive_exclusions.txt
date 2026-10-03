@@ -7,6 +7,7 @@ Archive.org
 ArtStation
 Bandcamp
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -14,7 +15,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 HackerNews
@@ -24,7 +24,6 @@ Hubski
 Instapaper
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -39,7 +38,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
