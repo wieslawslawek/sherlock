@@ -6,28 +6,29 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
-Contently
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,7 +39,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Tenor
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -48,6 +49,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
