@@ -6,11 +6,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -18,13 +18,14 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+Gravatar
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -55,5 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-threads
 xHamster
