@@ -23,8 +23,8 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -54,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
