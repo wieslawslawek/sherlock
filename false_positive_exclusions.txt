@@ -5,11 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blipfoto
-Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -22,9 +21,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 LushStories
+Minecraft
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -32,7 +33,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
@@ -46,7 +46,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
