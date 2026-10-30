@@ -1,13 +1,12 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -21,6 +20,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -37,9 +37,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
