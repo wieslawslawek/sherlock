@@ -1,10 +1,10 @@
+APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CTAN
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,6 +21,8 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -50,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
