@@ -2,8 +2,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Championat
+Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -15,9 +14,10 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
+LibraryThing
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -26,7 +26,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
