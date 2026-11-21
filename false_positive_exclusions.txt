@@ -1,22 +1,21 @@
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
+Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
