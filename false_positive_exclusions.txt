@@ -2,7 +2,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -16,6 +15,7 @@ Hubski
 Instapaper
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
