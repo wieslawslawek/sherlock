@@ -2,6 +2,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Audiojungle
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -14,8 +15,8 @@ Hashnode
 Hubski
 Instapaper
 Linktree
+LiveJournal
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
